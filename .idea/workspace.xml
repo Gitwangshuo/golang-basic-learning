@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="862023a3-b27f-429a-a6d8-e3bf2149e0f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson.go" beforeDir="false" />
+    <list default="true" id="862023a3-b27f-429a-a6d8-e3bf2149e0f0" name="Default Changelist" comment="insert demo part">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/main/start.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/main/start.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Struct/Method/start.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Struct/Method/start.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go10.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go10.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go10_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go10_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go11.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go11.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go11_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go11_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/golang/lint" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/lint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/golang/lint/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/lint/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/golang/lint/lint_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/lint/lint_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/blank-import-lib.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/blank-import-lib.go" afterDir="false" />
@@ -34,6 +42,7 @@
       <change beforePath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/time.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/time.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/unexp-return.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/unexp-return.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/var-decl.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/lint/testdata/var-decl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/assert/assertion_format.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/assert/assertion_format.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/assert/assertion_forward.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/assert/assertion_forward.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/assert/assertion_order.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/assert/assertion_order.go" afterDir="false" />
@@ -51,8 +60,71 @@
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/format.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/format.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/type_specific_codegen.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/type_specific_codegen.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/value.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/value.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/account/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/account/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter02/homework2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter02/homework2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter03/basictype2string13/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter03/basictype2string13/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter05/continuedemo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter05/continuedemo/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter05/exec/forexec03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter05/exec/forexec03/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter06/error/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter06/error/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter06/timeExercise/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter06/timeExercise/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter11/wangshuo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter11/wangshuo/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo02/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo02/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo04/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo04/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe02/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe02/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe03/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe04/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe04/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe06/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe06/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe07/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe07/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/flagdemo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/flagdemo/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/json/serial/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/json/serial/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/json/unmarshal/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/json/unmarshal/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter15/testcase02/monster.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter15/testcase02/monster.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/cpudemo/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/cpudemo/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/goroutineapply03/test/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/goroutineapply03/test/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter17/reflectdemo01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter17/reflectdemo01/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter17/reflectdetails/details5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter17/reflectdetails/details5/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/client/client(1).go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/client/client(1).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/circelqueue/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/circelqueue/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/expStack/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/expStack/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/singlequeue/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/singlequeue/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/stack/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/stack/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/login.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/login.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/model/curUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/model/curUser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsMgr.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsMgr.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsProcess.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userMgr.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userMgr.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userProcess.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/utils/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/main/processor.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/main/processor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/model/userDao.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/model/userDao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/process/smsProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/process/smsProcess.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/process/userProcess.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/utils/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/client/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/client/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/client/process/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/client/process/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/client/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/client/process/userProcess.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/model/userDao.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/model/userDao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/process/userProcess.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/utils/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/customer/view/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/customer/view/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/customerManage/view/customerView.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/customerManage/view/customerView.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/familyaccount/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/familyaccount/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/homework/client/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/homework/client/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/homework13day/exercise01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/homework13day/exercise01/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/lint" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/lint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/golang.org/x/lint/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/lint/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/http.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,95 +135,118 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/model/student.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/main/main.go">
+        <entry file="file://$PROJECT_DIR$/src/demo-item/main/mode/FamilyAccount.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/interfacedemo/main.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/interfaceDetails/main.go">
+        <entry file="file://$PROJECT_DIR$/src/demo-item/main/familyCount.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="988">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state relative-caret-position="342">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/interfacedetails2/main.go">
+        <entry file="file://$PROJECT_DIR$/src/go_code/homework/02_FamilyAccount2.0/02.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="-57" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/go_code/homework/03_customer/model/customers.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/interfacevsextends/main.go">
+        <entry file="file://$PROJECT_DIR$/src/go_code/homework/03_customer/service/customersService.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-827">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="399">
+              <caret line="21" column="51" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="51" />
               <folding>
-                <element signature="e#13#51#0" expanded="true" />
+                <element signature="e#37#147#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/client/main/main.go">
+        <entry file="file://$PROJECT_DIR$/src/work/commandLineParam/test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="-9">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="e#14#50#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/server/main/main.go">
+        <entry file="file://$PROJECT_DIR$/src/work/commandLineParam/demo/demo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="437">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
-                <element signature="e#13#77#0" expanded="true" />
+                <element signature="e#16#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/server/model/userDao.go">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="38">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/go_code/homework/client/client.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="27" />
+              <folding>
+                <element signature="e#13#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/go_code/homework/server/server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/golang.org/x/lint" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="urls">
@@ -168,21 +263,34 @@
         <option value="$PROJECT_DIR$/src/go_code/chapter11/interfaceDetails/main.go" />
         <option value="$PROJECT_DIR$/src/go_code/chapter11/interfacedetails2/main.go" />
         <option value="$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go" />
+        <option value="$PROJECT_DIR$/src/go_code/chapter11/wangshuo/main.go" />
+        <option value="$PROJECT_DIR$/src/go_code/chapter11/assertapply01/demo/main.go" />
+        <option value="$PROJECT_DIR$/src/go_code/chapter11/assertapply02/demo/main.go" />
+        <option value="$PROJECT_DIR$/src/demo-item/main/mode/FamilyAccount.go" />
+        <option value="$PROJECT_DIR$/src/demo-item/main/familyCount.go" />
+        <option value="$PROJECT_DIR$/src/work/commandLineParam/demo.go" />
+        <option value="&lt;7a9bc83d-8e3d-4dbf-a9a0-7605fd955571&gt;/root/wangshuo/test/test.go" />
+        <option value="$PROJECT_DIR$/src/work/commandLineParam/test.go" />
+        <option value="$PROJECT_DIR$/src/work/commandLineParam/demo/demo.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2094" />
-    <option name="y" value="204" />
+    <option name="x" value="1839" />
+    <option name="y" value="299" />
     <option name="width" value="1551" />
     <option name="height" value="839" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,80 +301,71 @@
             <path>
               <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-item" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chatroom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chatsys" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chatsys" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chatsys" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-item" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chatsys" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chatsys" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-item" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="mode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chatsys" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="commandLineParam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang-basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang-basic-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="commandLineParam" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -275,12 +374,22 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/work/commandLineParam/test.go" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/work/commandLineParam/test.go" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\golang\code\golang-basic-code\src\go_code\chapter11\wangshuo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\golang\code\golang-basic-code\src" />
     </key>
@@ -297,7 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (2)">
+  <component name="RunManager" selected="Go Build.go build test.go">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -322,6 +431,14 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/work/commandLineParam/test.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go test interfaceDetails" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <working_directory value="$PROJECT_DIR$/src/go_code/chapter11/interfaceDetails" />
@@ -333,6 +450,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Test.go test interfaceDetails" />
@@ -350,22 +468,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2563966" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25906184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.32962137" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41202345" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41202345" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37193763" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32844576" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31625834" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32962137" />
+      <window_info anchor="right" id="Remote Host" visible="true" weight="0.015991472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -380,6 +501,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/bin/github.com/bitly/go-simplejson" />
+      <path value="$PROJECT_DIR$/bin/github.com/golang/lint" />
+      <path value="$PROJECT_DIR$/bin/github.com/ramya-rao-a/go-outline" />
+      <path value="$PROJECT_DIR$/bin/github.com/stretchr/testify" />
+    </ignored-roots>
+    <MESSAGE value="insert demo part" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert demo part" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/factory/model/student.go">
@@ -414,16 +543,6 @@
         <state relative-caret-position="-285" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-827">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#13#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/client/main/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -431,19 +550,213 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/server/model/userDao.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="e#15#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/server/main/redis.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#14#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/server/main/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="304">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="40" />
           <folding>
             <element signature="e#13#77#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/server/model/userDao.go">
+    <entry file="file://$PROJECT_DIR$/src/go_code/chatsys/server/main/clientProcessor(1).go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="133">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/exercise/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-770">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#13#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/extendsdetails/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/extendsdemo/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/extendsdetails2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/assert/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/assertapply01/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <folding>
+            <element signature="e#13#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/assertapply01/demo/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/assertapply02/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/assertapply02/demo/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/familyaccount/main/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/chapter11/wangshuo/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/familyaccount/utils/familyAccount.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo-item/main/mode/FamilyAccount.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo-item/main/familyCount.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/homework/client/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#13#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/homework/server/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/homework/02_FamilyAccount2.0/02.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/homework/03_customer/model/customers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/work/commandLineParam/demo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_code/homework/03_customer/service/customersService.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="51" />
+          <folding>
+            <element signature="e#37#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/work/commandLineParam/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/work/commandLineParam/demo/demo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="e#16#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>

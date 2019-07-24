@@ -1,11 +1,11 @@
 package model
 
 import (
-	"fmt"
-	_ "time"
 	"encoding/json"
+	"fmt"
 	"github.com/garyburd/redigo/redis"
 	"go_code/chatsys/common"
+	_ "time"
 )
 
 //完成一些初始化工作，比如 MyUserDao, 这个后面需要

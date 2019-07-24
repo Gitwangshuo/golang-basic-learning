@@ -1,10 +1,10 @@
 package utils
 import (
-	"fmt"
-	"net"
-	"go_code/chatroom/common/message"
 	"encoding/binary"
 	"encoding/json"
+	"fmt"
+	"go_code/chatroom/common/message"
+	"net"
 )
 
 //这里将这些方法关联到结构体中

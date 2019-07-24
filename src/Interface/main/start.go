@@ -1,7 +1,6 @@
 package main
 
 import "fmt"
-import   "Interface/mode"
 
 type Usb interface {
 

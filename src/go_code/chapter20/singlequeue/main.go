@@ -1,8 +1,8 @@
 package main
 import (
+	"errors"
 	"fmt"
 	"os"
-	"errors"
 )
 
 //使用一个结构体管理队列

@@ -1,8 +1,8 @@
 package main
 import (
 	"fmt"
+	_ "io"
 	"net" //做网络socket开发时,net包含有我们需要所有的方法和函数
-	_"io"
 )
 
 func process(conn net.Conn) {

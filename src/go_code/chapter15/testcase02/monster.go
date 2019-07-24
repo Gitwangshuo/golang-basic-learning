@@ -1,8 +1,8 @@
 package monster
 import (
 	"encoding/json"
-	"io/ioutil"
 	"fmt"
+	"io/ioutil"
 )
 
 type Monster struct {

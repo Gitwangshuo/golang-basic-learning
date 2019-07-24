@@ -1,9 +1,9 @@
 package main
 import (
-	"fmt"
-	"os"
 	"bufio"
-	"io" 
+	"fmt"
+	"io"
+	"os"
 )
 func main() {
 	//打开文件

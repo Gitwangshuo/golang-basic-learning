@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"factory/model"
+	"fmt"
 )
 
 func main() {

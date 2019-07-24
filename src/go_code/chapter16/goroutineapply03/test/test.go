@@ -1,7 +1,7 @@
 package main
 import (
-	"time"
 	"fmt"
+	"time"
 )
 
 func main() {

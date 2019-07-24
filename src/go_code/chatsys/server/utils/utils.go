@@ -1,12 +1,12 @@
 package utils
 
 import (
-	"fmt"
-	"net"
-	"go_code/chatsys/common"
-	"errors"
 	"encoding/binary"
 	"encoding/json"
+	"errors"
+	"fmt"
+	"go_code/chatsys/common"
+	"net"
 )
 
 //这个结构体，完成对客户端发送和接收消息包的读取

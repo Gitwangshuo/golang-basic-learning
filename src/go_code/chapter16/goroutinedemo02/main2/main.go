@@ -1,8 +1,8 @@
 package main
 import (
 	"fmt"
-	_ "time"
 	"sync"
+	_ "time"
 )
 
 // 需求：现在要计算 1-200 的各个数的阶乘，并且把各个数的阶乘放入到map中。

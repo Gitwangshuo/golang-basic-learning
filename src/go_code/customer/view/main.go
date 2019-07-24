@@ -3,8 +3,8 @@ package main
 //引入包
 import (
 	"fmt"
-	"go_code/customer/service"
 	"go_code/customer/model"
+	"go_code/customer/service"
 )
 
 type CustomerView struct {

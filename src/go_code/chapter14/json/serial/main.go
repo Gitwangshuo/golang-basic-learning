@@ -1,7 +1,7 @@
 package main
 import (
-	"fmt"
 	"encoding/json"
+	"fmt"
 )
 
 //定义一个结构体

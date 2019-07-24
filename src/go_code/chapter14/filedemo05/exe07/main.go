@@ -1,9 +1,9 @@
 package main
 import (
+	"bufio"
 	"fmt"
-	"os"
 	"io"
-	"bufio" 
+	"os"
 )
 
 //定义一个结构体，用于保存统计结果

@@ -1,12 +1,12 @@
 package process
 import (
-	"net"
-	"go_code/chatsys/common"
-	"go_code/chatsys/client/utils"
-	"fmt"
-	"os"
-	"encoding/json"
 	"encoding/binary"
+	"encoding/json"
+	"fmt"
+	"go_code/chatsys/client/utils"
+	"go_code/chatsys/common"
+	"net"
+	"os"
 )
 
 //UserProcessor.go 相当于一个控制器,装用于处理与用户相关的

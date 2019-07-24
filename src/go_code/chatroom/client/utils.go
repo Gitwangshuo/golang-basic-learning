@@ -1,10 +1,10 @@
 package main
 import (
-	"fmt"
-	"net"
-	"go_code/chatroom/common/message"
 	"encoding/binary"
 	"encoding/json"
+	"fmt"
+	"go_code/chatroom/common/message"
+	"net"
 )
 
 func readPkg(conn net.Conn) (mes message.Message, err error) {

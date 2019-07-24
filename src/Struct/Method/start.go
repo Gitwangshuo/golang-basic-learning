@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"Struct/Method/work"
 )
 // way 1 declare a struct
 type Person struct {

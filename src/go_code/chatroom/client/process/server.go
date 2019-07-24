@@ -1,12 +1,12 @@
 package process
 
 import (
+	"encoding/json"
 	"fmt"
-	"os"
 	"go_code/chatroom/client/utils"
 	"go_code/chatroom/common/message"
-	"encoding/json"
 	"net"
+	"os"
 )
 
 //显示登录成功后的界面..

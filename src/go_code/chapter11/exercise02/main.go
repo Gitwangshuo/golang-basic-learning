@@ -1,8 +1,8 @@
 package main
 import (
 	"fmt"
-	"sort"
 	"math/rand"
+	"sort"
 )
 
 //1.声明Hero结构体

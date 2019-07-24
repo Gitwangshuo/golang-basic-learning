@@ -13,9 +13,6 @@ import (
 
 )
 
-import simplejson "github.com/bitly/go-simplejson"
-
-
 const IssueURL = "https://api.github.com/search/issues"
 
 type IssuesSearchResult struct {

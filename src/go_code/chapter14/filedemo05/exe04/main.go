@@ -1,9 +1,9 @@
 package main
 import (
-	"fmt"
 	"bufio"
+	"fmt"
+	"io"
 	"os"
-	"io" 
 )
 
 func main() {

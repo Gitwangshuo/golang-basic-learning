@@ -1,10 +1,10 @@
 package main
 import (
-	"fmt"
-	"encoding/json"
 	"encoding/binary"
-	"net"
+	"encoding/json"
+	"fmt"
 	"go_code/chatroom/common/message"
+	"net"
 )
 
 //写一个函数，完成登录

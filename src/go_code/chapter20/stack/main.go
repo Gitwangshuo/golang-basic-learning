@@ -1,7 +1,7 @@
 package main
 import (
-	"fmt"
 	"errors"
+	"fmt"
 )
 
 //使用数组来模拟一个栈的使用

@@ -1,10 +1,10 @@
 package model
 
 import (
+	"encoding/json"
 	"fmt"
 	"github.com/garyburd/redigo/redis"
 	"go_code/chatroom/common/message"
-	"encoding/json"
 )
 
 //我们在服务器启动后，就初始化一个userDao实例，

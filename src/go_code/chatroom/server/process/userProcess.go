@@ -1,11 +1,11 @@
 package process2
 import (
-	"fmt"
-	"net"
-	"go_code/chatroom/common/message"
-	"go_code/chatroom/server/utils"
-	"go_code/chatroom/server/model"
 	"encoding/json"
+	"fmt"
+	"go_code/chatroom/common/message"
+	"go_code/chatroom/server/model"
+	"go_code/chatroom/server/utils"
+	"net"
 )
 
 type UserProcess struct {

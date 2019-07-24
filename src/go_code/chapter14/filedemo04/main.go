@@ -1,8 +1,8 @@
 package main
 import (
-	"fmt"
 	"bufio"
-	"os" 
+	"fmt"
+	"os"
 )
 func main() {
 	//创建一个新文件，写入内容 5句 "hello, Gardon"

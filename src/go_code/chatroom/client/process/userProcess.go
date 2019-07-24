@@ -1,11 +1,11 @@
 package process
 import (
-	"fmt"
-	"net"
-	"go_code/chatroom/common/message"
-	"go_code/chatroom/client/utils"
 	"encoding/binary"
 	"encoding/json"
+	"fmt"
+	"go_code/chatroom/client/utils"
+	"go_code/chatroom/common/message"
+	"net"
 	"os"
 )
 

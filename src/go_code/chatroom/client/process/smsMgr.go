@@ -1,8 +1,8 @@
 package process
 import (
+	"encoding/json"
 	"fmt"
 	"go_code/chatroom/common/message"
-	"encoding/json"
 )
 
 func outputGroupMes(mes *message.Message) { //这个地方mes一定SmsMes

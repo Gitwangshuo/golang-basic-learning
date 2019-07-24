@@ -1,8 +1,8 @@
 package main
 import (
+	"errors"
 	"fmt"
 	_ "time"
-	"errors"
 )
 
 func test() {

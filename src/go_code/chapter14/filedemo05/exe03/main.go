@@ -1,8 +1,8 @@
 package main
 import (
-	"fmt"
 	"bufio"
-	"os" 
+	"fmt"
+	"os"
 )
 
 func main() {

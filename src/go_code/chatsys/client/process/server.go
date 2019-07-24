@@ -3,10 +3,10 @@ package process
 import (
 	"encoding/json"
 	"fmt"
-	"net"
-	"os"
 	"go_code/chatsys/client/utils"
 	"go_code/chatsys/common"
+	"net"
+	"os"
 )
 
 func ProcessServerMessage(conn net.Conn) {

@@ -1,8 +1,8 @@
 package main
 import (
+	"bufio"
 	"fmt"
 	"net"
-	"bufio"
 	"os"
 	"strings"
 )
