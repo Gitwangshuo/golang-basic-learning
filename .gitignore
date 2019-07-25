@@ -1,4 +1,43 @@
-/.idea/
-/bin/
-/pkg/
-/src/github.com/
+#Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ 
+#C/C++
+*.d
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.swp
+ 
+#Python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+ 
+#Java
+*.class
+*.jar
+ 
+#generated files
+bin/
+gen/
+ 
+#Eclipse Project Files
+.classpath
+.project
+.settings/
+
+src/github.com/
+ 
+#IntelliJ IDEA Files
+*.iml
+*.ipr
+*.iws
+*.idea
+ 
