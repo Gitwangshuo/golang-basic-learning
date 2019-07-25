@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="862023a3-b27f-429a-a6d8-e3bf2149e0f0" name="Default Changelist" comment="insert demo part">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/main/start.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/main/start.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Struct/Method/start.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Struct/Method/start.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/main/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go10.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/bitly/go-simplejson/simplejson_go10.go" afterDir="false" />
@@ -60,71 +56,10 @@
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/format.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/format.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/type_specific_codegen.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/type_specific_codegen.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/value.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/stretchr/testify/vendor/github.com/stretchr/objx/value.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/account/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/account/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter02/homework2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter02/homework2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter03/basictype2string13/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter03/basictype2string13/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter05/continuedemo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter05/continuedemo/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter05/exec/forexec03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter05/exec/forexec03/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter06/error/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter06/error/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter06/timeExercise/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter06/timeExercise/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter11/exercise02/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter11/wangshuo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter11/wangshuo/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo02/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo02/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo04/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo04/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe02/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe02/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe03/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe04/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe04/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe06/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe06/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe07/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/filedemo05/exe07/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/flagdemo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/flagdemo/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/json/serial/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/json/serial/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter14/json/unmarshal/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter14/json/unmarshal/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter15/testcase02/monster.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter15/testcase02/monster.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/cpudemo/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/cpudemo/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/goroutineapply03/test/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/goroutineapply03/test/test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter16/goroutinedemo02/main2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter17/reflectdemo01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter17/reflectdemo01/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter17/reflectdetails/details5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter17/reflectdetails/details5/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/client/client(1).go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/client/client(1).go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter18/tcpdemo/server/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/circelqueue/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/circelqueue/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/expStack/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/expStack/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/singlequeue/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/singlequeue/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chapter20/stack/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chapter20/stack/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/login.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/login.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/model/curUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/model/curUser.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsMgr.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsMgr.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/smsProcess.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userMgr.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userMgr.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/process/userProcess.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/utils.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/client/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/client/utils/utils.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/main/processor.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/main/processor.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/model/userDao.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/model/userDao.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/process/smsProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/process/smsProcess.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/process/userProcess.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatroom/server/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatroom/server/utils/utils.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/client/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/client/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/client/process/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/client/process/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/client/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/client/process/userProcess.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/model/userDao.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/model/userDao.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/process/userProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/process/userProcess.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/chatsys/server/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/chatsys/server/utils/utils.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/customer/view/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/customer/view/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/customerManage/view/customerView.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/customerManage/view/customerView.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/familyaccount/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/familyaccount/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/homework/client/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/homework/client/client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/homework13day/exercise01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/homework13day/exercise01/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/golang.org/x/lint" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/lint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/golang.org/x/lint/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/lint/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/tools/gopls/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/http/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/http.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -207,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="104">
+              <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -468,7 +403,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25906184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -484,7 +418,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32844576" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31625834" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.66035634" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32962137" />
       <window_info anchor="right" id="Remote Host" visible="true" weight="0.015991472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -755,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="104">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
         </state>
       </provider>
     </entry>
